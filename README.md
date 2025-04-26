@@ -18,20 +18,3 @@ You can click the Preview link to take a look at your changes.
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
 
-<!DOCTYPE html>
-<html>
-<head> 
-<style>
-  .centerImage{
-    display: block;
-    margin-left:auto;
-    margin-right:auto;
-  }
-</style>
-</head>
-<body>
-
-<ing src="https://github.com/Hemanathan908/Hemanathan908/blob/main/Photos/Hacker-Thumb-a1.png" class ="centerImage"width="150" heioht>
-
-</body>
-</html>
